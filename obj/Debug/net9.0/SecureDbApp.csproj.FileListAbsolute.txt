@@ -34,3 +34,4 @@ C:\Users\Iasmina\Desktop\SSC\SecureDbApp\obj\Debug\net9.0\refint\SecureDbApp.dll
 C:\Users\Iasmina\Desktop\SSC\SecureDbApp\obj\Debug\net9.0\SecureDbApp.pdb
 C:\Users\Iasmina\Desktop\SSC\SecureDbApp\obj\Debug\net9.0\SecureDbApp.genruntimeconfig.cache
 C:\Users\Iasmina\Desktop\SSC\SecureDbApp\obj\Debug\net9.0\ref\SecureDbApp.dll
+C:\Users\Iasmina\Desktop\ssc\SecureDbApp\obj\Debug\net9.0\SecureDbApp.sourcelink.json

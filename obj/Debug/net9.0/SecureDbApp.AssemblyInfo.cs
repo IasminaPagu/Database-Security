@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureDbApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44d71f2c27857709c024ab3fc4e1168fe290a614")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureDbApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureDbApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

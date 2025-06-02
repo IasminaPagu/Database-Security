@@ -13,6 +13,7 @@ public static class CryptoHelper
         using Aes aes = Aes.Create();
         aes.Key = Encoding.UTF8.GetBytes(keyString);
         aes.IV = Encoding.UTF8.GetBytes(ivString);
+        //transformam string-urile noastre din string in bytes
 
         using MemoryStream ms = new();
         using CryptoStream cs = new(ms, aes.CreateEncryptor(), CryptoStreamMode.Write);

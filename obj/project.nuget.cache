@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8387aIa+Nz0=",
+  "dgSpecHash": "k73cI7hWlAg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Iasmina\\Desktop\\SSC\\SecureDbApp\\SecureDbApp.csproj",
+  "projectFilePath": "C:\\Users\\Iasmina\\Desktop\\ssc\\SecureDbApp\\SecureDbApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iasmina\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Iasmina\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

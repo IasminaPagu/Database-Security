@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iasmina\\Desktop\\SSC\\SecureDbApp\\SecureDbApp.csproj": {}
+    "C:\\Users\\Iasmina\\Desktop\\ssc\\SecureDbApp\\SecureDbApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iasmina\\Desktop\\SSC\\SecureDbApp\\SecureDbApp.csproj": {
+    "C:\\Users\\Iasmina\\Desktop\\ssc\\SecureDbApp\\SecureDbApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iasmina\\Desktop\\SSC\\SecureDbApp\\SecureDbApp.csproj",
+        "projectUniqueName": "C:\\Users\\Iasmina\\Desktop\\ssc\\SecureDbApp\\SecureDbApp.csproj",
         "projectName": "SecureDbApp",
-        "projectPath": "C:\\Users\\Iasmina\\Desktop\\SSC\\SecureDbApp\\SecureDbApp.csproj",
+        "projectPath": "C:\\Users\\Iasmina\\Desktop\\ssc\\SecureDbApp\\SecureDbApp.csproj",
         "packagesPath": "C:\\Users\\Iasmina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iasmina\\Desktop\\SSC\\SecureDbApp\\obj\\",
+        "outputPath": "C:\\Users\\Iasmina\\Desktop\\ssc\\SecureDbApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
